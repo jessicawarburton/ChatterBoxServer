@@ -1,0 +1,14 @@
+/home/jessica/RiderProjects/ChatterBoxServer/Server.Data/bin/Debug/net8.0/Server.Data.deps.json
+/home/jessica/RiderProjects/ChatterBoxServer/Server.Data/bin/Debug/net8.0/Server.Data.runtimeconfig.json
+/home/jessica/RiderProjects/ChatterBoxServer/Server.Data/bin/Debug/net8.0/Server.Data.dll
+/home/jessica/RiderProjects/ChatterBoxServer/Server.Data/bin/Debug/net8.0/Server.Data.pdb
+/home/jessica/RiderProjects/ChatterBoxServer/Server.Data/obj/Debug/net8.0/Server.Data.csproj.AssemblyReference.cache
+/home/jessica/RiderProjects/ChatterBoxServer/Server.Data/obj/Debug/net8.0/Server.Data.GeneratedMSBuildEditorConfig.editorconfig
+/home/jessica/RiderProjects/ChatterBoxServer/Server.Data/obj/Debug/net8.0/Server.Data.AssemblyInfoInputs.cache
+/home/jessica/RiderProjects/ChatterBoxServer/Server.Data/obj/Debug/net8.0/Server.Data.AssemblyInfo.cs
+/home/jessica/RiderProjects/ChatterBoxServer/Server.Data/obj/Debug/net8.0/Server.Data.csproj.CoreCompileInputs.cache
+/home/jessica/RiderProjects/ChatterBoxServer/Server.Data/obj/Debug/net8.0/Server.Data.dll
+/home/jessica/RiderProjects/ChatterBoxServer/Server.Data/obj/Debug/net8.0/refint/Server.Data.dll
+/home/jessica/RiderProjects/ChatterBoxServer/Server.Data/obj/Debug/net8.0/Server.Data.pdb
+/home/jessica/RiderProjects/ChatterBoxServer/Server.Data/obj/Debug/net8.0/Server.Data.genruntimeconfig.cache
+/home/jessica/RiderProjects/ChatterBoxServer/Server.Data/obj/Debug/net8.0/ref/Server.Data.dll
